@@ -1,0 +1,77 @@
+*{margin:0;padding:0}
+body{
+    background-color: grey;
+}
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250;
+    height: 250;
+}
+.button {
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  .button:hover {
+    background-color: white;
+    color: black;
+  }
+.centre2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450;
+    height: 450;
+    padding-top: 25px;
+}
+.centre_text{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+     padding-top: 0px;
+    padding-bottom: 1px;
+    
+}
+.color{
+    color:blue;
+}
+.text{
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 20px;
+}
+.text:hover{
+    background-color: white;
+}
+.text2{
+    color:white;
+    padding-bottom: 50px;
+    margin-left: 30px;
+}
+.title{
+    text-align: center;
+    font-weight: 900;
+   
+}
+.fish{
+    font-size: 35px;
+    text-align: center;
+    color:white;
+    background-color: black;
+    padding: 10px;
+}
+.background{
+    background-color: black;
+    padding-top: 100px;
+    
+}
